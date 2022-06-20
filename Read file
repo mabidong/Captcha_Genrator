@@ -1,0 +1,10 @@
+"""
+Instructions
+1. Install captcha: pip install captcha
+2. download fonts and update the path in code
+3. run the code
+"""
+
+Install the dependencies by executing the following command pip install -r requirements.txt
+
+Update the path of font in code (if required) image = ImageCaptcha(fonts=['<path>/ChelseaMarketsr.ttf', '<path>/DejaVuSanssr.ttf'])
